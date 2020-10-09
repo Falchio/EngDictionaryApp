@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EngDictionaryApp</string>
+    <string name="enter_word_for_search">Введите слово для поиска</string>
+    <string name="search">search</string>
 </resources>
